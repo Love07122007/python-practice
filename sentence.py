@@ -1,0 +1,10 @@
+'''a=input("enter the sentence")
+b=input("enter the word to be searched")
+print(b is not a)'''
+a=int(input("enter first no."))
+b=int(input("enter second no."))
+print(a&b)
+print(a|b)
+print(a^b)
+print(~a)
+print(a<<2)
